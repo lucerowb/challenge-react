@@ -1,5 +1,10 @@
 # Spootify Coding Challenge 🎧 &nbsp; ![hard](https://img.shields.io/badge/-Hard-red) ![time](https://img.shields.io/badge/%E2%8F%B0-60m-blue) 
 
+
+# Set env variables
+` cp .env.example .env `
+- And add your client_id, client_secret and URL 
+
 &nbsp;
 # Goals/Outcomes ✨
 - To test knowledge of consuming APIs and handling responses
