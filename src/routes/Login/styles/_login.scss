@@ -9,13 +9,13 @@ $spotify-green: #18ac4d;
 
   .login-btn {
     background: $spotify-green;
-    padding: 22px;
+    padding: 0.5em;
     text-align: center;
     border-radius: 45px;
     color: white;
     font-weight: 500;
-    line-height: 25px;
-    font-size: 40px;
+    line-height: 1em;
+    font-size: 2em;
     text-decoration: none;
   }
   .login-btn:hover {
